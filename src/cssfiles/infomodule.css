@@ -1,0 +1,79 @@
+.info {
+  
+    background-color: #1A1B21;
+    }
+  
+  
+  .info >img{
+      height: 317px;
+      width: 317px;
+      border-radius: 10px 10px 0px 0px;
+  }
+  .info >h2{
+      color:white;
+      font-family: 'Inter';
+      padding:21px 70px;
+      font-size: 25px;
+      text-align: center;
+      padding-top: 0px;
+  }
+  .info >h3{
+      color:#F3BF99;
+      font-family: 'Inter';
+      font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  margin-top: -35px;
+      
+  }
+  .info >h4{
+      color: white;
+      font-weight: 400;
+  font-family: 'Inter';
+  font-size: 10.24px;
+  line-height: 150%;
+  margin-top: 0px;
+  /* identical to box height, or 15px */
+  
+  text-align: center;
+  
+  }
+  .infobutt{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding-bottom: 10px;
+  }
+  .email{
+      display: flex;
+      font-family: inter;
+      font-size: 14px;
+      height:34px;
+      width:115px;
+      align-items: center;
+      color: #374151;
+      justify-content: center;
+      background-color: #FFFFFF;
+      padding: 9px 13px;
+      gap:8px;
+      box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+     border-radius: 6px; 
+  }
+  .linked{
+      background-color: #5093E2;
+      display: flex;
+      font-family: Inter;
+      font-size: 14px;
+      line-height: 16px;
+      height:34px;
+      width: 115px;
+      padding: 9px 13px;
+      justify-content: center;
+      align-items: center;
+      color:white;
+      gap:8px;
+       box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+     border-radius: 6px;
+  }
+  
+  

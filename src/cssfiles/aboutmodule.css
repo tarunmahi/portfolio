@@ -1,0 +1,27 @@
+.about{
+    background-color: #1A1B21;
+    display: grid; 
+   
+   }
+   .about >h2 , .about >h4{
+   padding-left: 25px;
+   padding-right: 25px;
+   }
+   .about >h2{
+       font-size: 16px;
+   line-height: 150%;
+   font-style: normal;
+   color: white;
+       
+       
+   }
+   .about >h4{
+      color: #DCDCDC;
+      font-family: Inter;
+      font-size: 10.24px;
+      line-height: 150%;
+      margin-top: -9px;
+      
+   }
+   
+   

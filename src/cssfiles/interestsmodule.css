@@ -1,0 +1,25 @@
+.interest{
+    display: grid;
+    background-color:#1A1B21 ;
+    margin-top: -3px;
+}
+.interest >h2 , .interest >h4{
+padding-left: 25px;
+padding-right: 25px;
+}
+ .interest>h2{
+    font-size: 16px;
+line-height: 150%;
+font-style: normal;
+color: white;
+    
+    
+}
+.interest >h4{
+   color: #DCDCDC;
+   font-family: Inter;
+   font-size: 10.24px;
+   line-height: 150%;
+   margin-top: -9px;
+   
+}
