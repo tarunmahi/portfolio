@@ -10,7 +10,7 @@ This project consists of various basic commands of the react framework.
 
 ## Structure
 i have completed this website by creating four components namely 
- * header
+* header
  * About
  * Interests
  * Footer
@@ -21,7 +21,5 @@ i added all theese components by using React components and rendered them togeth
 for styling i have used general css. for the container of all the above components i have used `CSS-GRID`.where i have contemplately used the grid templates function of both *rows* and *columns* .
 
 ## Challenges
-1.combining the components without altering the css code was seemingly difficult as the design was changing everytime i added an component.!
+1.combining the components without altering the css code was seemingly difficult as the design was changing everytime i added an component.!took more time while doing this...
 
-## Website image 
-[sample image](c:/Users/tarun/Pictures/Screenshots/Screenshot%20(280).png)
