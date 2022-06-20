@@ -23,4 +23,9 @@ for styling i have used general css. for the container of all the above componen
 ## Challenges
 1.combining the components without altering the css code was seemingly difficult as the design was changing everytime i added an component.!took more time while doing this...
 
+## working picture of the project
+
+![Jhonny depp](public/images/example.png)
+> Above picture shows the live image of the working portfolio website of the project. <br/>
+
 
