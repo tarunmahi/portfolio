@@ -4,7 +4,7 @@
 2.The porftfolio website is created using [`React`](https://reactjs.org/) framework.
 This project consists of various basic commands of the react framework.
 
->This project is part of learning react in [*Scrimba*](https://scrimba.com/allcourses) which was taught by *bob ziroll*
+>This project is part of learning react in [*Scrimba*](https://scrimba.com/allcourses) which was taught by *Bob ziroll*
 
 2.this project shows us the details of a person in a subtle way,whereas the design and its components are worth using and creating.
 
