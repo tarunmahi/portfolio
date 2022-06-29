@@ -6,7 +6,7 @@ This project consists of various basic commands of the react framework.
 
 >This project is part of learning react in [*Scrimba*](https://scrimba.com/allcourses) which was taught by *Bob ziroll*
 
-2.this project shows us the details of a person in a subtle way,whereas the design and its components are worth using and creating.
+2.this project shows us the details of a person in a subtle way,whereas the design and its components are worth using and creating them..
 
 ## Structure
 i have completed this website by creating four components namely 
