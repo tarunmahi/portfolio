@@ -29,6 +29,6 @@ for styling i have used general css. for the container of all the above componen
 > Above picture shows the live image of the working portfolio website of the project. <br/>
 
 **PS** => since i'm a fan of huuugggeeee fan of `Jhonny Depp`
-i used his portfolio.
+i used his portfolio for this project.
 
 
